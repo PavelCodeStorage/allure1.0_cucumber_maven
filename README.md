@@ -3,7 +3,7 @@ AllureCucumberMaven
 Overview:
 ---
  
-Repository provide configuration example of Allure1.0 with Maven.
+This repository provide configuration example of Allure1.0 with Maven
 
 ---
 
