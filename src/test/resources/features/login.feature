@@ -10,3 +10,9 @@ Feature: LoginFeature feature
       | email/telephone              | password      |
       | 1234567890                   | qwert12345    |
       | 3333333300                   | paswword12345 |
+
+  @ORPHAN
+  Scenario: Hello
+    Given 1
+    When 2
+    Then 3
