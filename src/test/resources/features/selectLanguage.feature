@@ -6,7 +6,3 @@ Feature: Language feature
     When Enters UserName as "1234567890" and Password as "qwert12345"
     And User select "english" language
     Then Language "english" is visible
-
-  @ORPHAN
-  Scenario: =)
-    hkjhkj
