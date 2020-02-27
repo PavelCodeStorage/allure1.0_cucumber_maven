@@ -2,7 +2,7 @@ Feature: SearchCucumberDemo
 
   My Description Feature
 
-  @ORPHAN
+  @ORPHAN @MANUAL
   Scenario: MySuperScenario
       Given User performed searching of "Cucumber" item for "All" department
            When User adds to Cart the following products
