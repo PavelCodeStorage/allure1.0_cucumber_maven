@@ -2,7 +2,7 @@ Feature: My New Feature
 
   Description
 
-  @ORPHAN @MANUAL
+  @ORPHAN
   Scenario: My Scenario
     Given User on Login page2
     When Enters UserName as "1234567890" and Password as "qwert12345"
