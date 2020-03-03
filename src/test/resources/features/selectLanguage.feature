@@ -7,7 +7,7 @@ Feature: Language feature
     And User select "english" language
     Then Language "english" is visible
 
-  @ORPHAN @MANUAL
+  @ORPHAN
   Scenario: BDD specification
     Given User on Login page2
     When Enters UserName as "1234567890" and Password as "qwert12345"
