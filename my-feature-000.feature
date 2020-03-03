@@ -2,7 +2,7 @@ Feature: My Feature 000
 
   My Description
 
-  @ORPHAN
+  @ORPHAN @MANUAL
   Scenario: Name
     Given User on
     When User do
